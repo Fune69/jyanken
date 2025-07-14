@@ -1,1 +1,0 @@
-# Jyanken App
